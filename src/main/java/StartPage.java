@@ -13,7 +13,8 @@ public class StartPage {
 
     public static void main(String[] args) {
 
-        System.out.println("HW8");
+        ProgramCases programCases = new ProgramCases();
+        programCases.programCases();
 
     }
 }
